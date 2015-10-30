@@ -1,9 +1,9 @@
-Origin: Joel49 Cydia Repo
-Label: Joel49 Cydia Repo
+Origin: Joel49's Cydia Repo
+Label: Joel49's Cydia Repo
 Suite: stable
 Version: 0.9
 Codename: tangelo
 Architectures: iphoneos-arm
 Components: main
-Description: Joel49 Cydia Repo
+Description: Joel49's Cydia Repo
 Icon: file://Cydiaicon.png
